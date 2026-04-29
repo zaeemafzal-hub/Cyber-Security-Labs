@@ -1,1 +1,145 @@
+tryhackmerooms completed
+
+1.module inroduction to cyber security 
+
+room1 
+tryhackme/offensivesecurityinfo                                                                   Room completed
+what is offensive security?
+thinking like a hacker to find weeknesses before someone else does and damages our thing
+finding hidden pages of a site 
+dirb command helps to find hidden pages on a site 
+hacking the fake bank page  
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+2.tryhackme/defensivesecurityinfo                                                                 Room completed 
+what is defensive security ?
+its not attackingits deffending the system by finding outor detecting and investigating 
+attacks and responding to them as fast as before damage occurs
+major observations 
+majorly soc analyst use some softwares or dashboard to  monitor or detetct suspicious 
+activities
+in this lab we 
+suspected a suspicious ip on our app and tried to protect the system by responding to it
+by categorizing it as dangerous and blocking it 
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+3.tryhackme/careersincybersecurity                                                                Room completed 
+security analyst 
+refered as digital defenders and blue team
+monitor investigate and respond to defend yhe network of organization
+they gather alerts termed as dangerous or suspicious activities and resolve them so that 
+they dont damage us 
+
+security engineering 
+they build and maintain the sytems that protect the organizations they are refered ad 
+arhitects of cyber 
+desugning and maintaining security systems 
+documenting and processing the procedures 
+assessing risks to make ensure  systems safety 
+
+
+penetration testing 
+they are known as ethical hackers or pantesting
+they search for weakness adn vulnerabilities and then try to exploit them  like a real 
+hacker to check systems 
+safety
+all is odne under an agreement knoown as enagagement 
+they analyse and advise the organization on how to prevent attack from accuring
+
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+4.tryhackme/whatisnetworking                                                                      Room completed 
+networking ?
+its being connected together for various purposes or reasons eg like a friends group connected 
+because of similar hobbies or interests etc
+in computer a network can be formed from anywhere from 2 to bilions 
+internet 
+inernet is big giant network that consist of many small networks
+networks 
+private network 
+public network 
+
+identifying devices on a network 
+each device has twon must things 
+1. ip address as an example in humans name of a person can be two of same 
+consist of 4 octets   192.168.1.1 
+192 0-255 octet 1
+168 0-255 octet 2 
+1 0-255 octet 3
+1 0-255 octet 4
+ a public ip adress can be used to identify device on a network 
+while private ip  adress will only be identifyable or visible  to an other private devices ip  
+old ip addresses consist of 2^32 combinations now 
+ipv4 a new set of 2^128 combinations is being introduced 
+
+2. mac media access control address as fingerprints of humans always unique cannot b same of two 
+
+mac address is twelve chracters  split into two portions of 6 
+a4:c3:f0:85:ac:2d
+first 6  is provided by the company or vendor who build the device 
+second 6  is a uniwue address of network interface 
+
+the interexted thing is they can be faked or spoofed 
+like a device pretends to be another using this mac like a car identifying as a bike by copying mac 
+ping 
+ping uses ICMP (internet control message protocol)
+to determine performence of a cinnection between devices like wether they  exist or are reliable 
+time taken by icmp packets to travel between devices is measured by ping 
+ping can be performed on networks or site eg google  etc
+
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+5.tryhackme/linuxfundamentals1                                                                     Room completed 
+linux is also an operating system just like windows or os  powering cars supercomputers appliances etc
+use of linux 
+its very lightweight
+itsactually an umberella unix in which alot of variants and versions are available 
+according to your need 
+some commands on linux
+echo   to output anything you write eg a cout in cpp
+whoami  to find out which user has logged in 
+file system commands 
+ls to list contents of current directory 
+cd to change your  current directory or folder 
+cat  to output contents of a specific file 
+pwd to find full path of a current directory or folder 
+find -name filename: to find a file with specific name
+wc-l filename : to count the number of entries in some file 
+grep "ip address" filename :to find any entries with the ip address in file 
+grep -R "anykeyword":to find something recusively in all directories eg current sub etc
+shell operators 
+& allows you to run commands in  background of your terminal 
+&& allows to cmbine multiple commands together in one line of terminal 
+if command 1 will be true then 2nd will be executed other wise no output 
+> used to redirect output to a  specific file but its overwrites the current or present info in the file 
+>> used to append something in the file it does not overwrite any data just adds it in the file 
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////
 
